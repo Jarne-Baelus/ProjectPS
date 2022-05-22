@@ -1,0 +1,30 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background-color: #F9F8FF;
+  color: black;
+}
+
+.Title {
+  text-align: center;
+  margin-bottom: 50px;
+  margin-top: 70px;
+  font-weight: bolder;
+  text-decoration: underline;
+}
+
+.Bus {
+  border-radius: 10px;
+  border: solid 3px #5D5F94;
+  width: 100%;
+  content-align: right;
+  box-shadow: 0px 0px 17px 5px #5D5F94;
+}
+
+.HomeText {
+  font-size: 1.5em;
+}
+
+/*# sourceMappingURL=HomePage.css.map */
